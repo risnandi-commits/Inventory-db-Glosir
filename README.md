@@ -25,11 +25,7 @@ The database consists of 5 tightly-coupled relational tables:
 
 ---
 
-## Entity-Relationship Diagram (ERD)
-
-[ERD Warehouse Inventory](ERD-warehouse-inventory.png)
-
-### Database Component Breakdown
+## Database Component Breakdown
 
 | Entity | Primary Key | Foreign Key | Description |
 | :--- | :--- | :--- | :--- |
