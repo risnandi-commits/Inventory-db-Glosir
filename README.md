@@ -1,6 +1,6 @@
-# Wholesale Warehouse Inventory Database System (MySQL v2)
+# Inventory Database System (MySQL v2)
 
-A robust, relational, and production-ready MySQL database schema designed for wholesale warehouse operations. It comes equipped with automation features like database triggers for stock management and data consistency constraints, making it highly suitable for academic projects, portfolios, or small business inventory backends.
+A robust, relational, and production-ready MySQL database schema designed for inventtory operations. It comes equipped with automation features like database triggers for stock management and data consistency constraints, making it highly suitable for academic projects, portfolios, or small business inventory backends.
 
 ## Database Schema Architecture
 The database consists of 5 tightly-coupled relational tables:
